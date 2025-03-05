@@ -1,0 +1,24 @@
+{
+  "words": [
+      {
+          "word": "собака",
+          "translation": "dog",
+          "example": "The dog is barking."
+      },
+      {
+          "word": "кошка",
+          "translation": "cat",
+          "example": "The cat is sleeping."
+      }
+  ],
+  "phrases": [
+      {
+          "phrase": "Как дела?",
+          "translation": "How are you?"
+      },
+      {
+          "phrase": "Что нового?",
+          "translation": "What's new?"
+      }
+  ]
+}
